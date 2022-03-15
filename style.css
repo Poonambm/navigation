@@ -6,23 +6,16 @@ html {
     display: flex;
     background-color: black;
     justify-content: space-between;
+    align-items: center;
   }
   h1 {
     background-color: purple;
     font-size: x-large;
-    display: flex;
     align-items: center;
-  }
+    height: 30%;
+        }
   div {
     display: flex;
     align-items: center;
   }
-  .searchbar {
-    display: flex;
-    align-items: center;
-  }
-  .ending {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    }
+  
