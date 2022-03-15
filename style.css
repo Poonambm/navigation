@@ -1,0 +1,28 @@
+html {
+    font-family: serif;
+    color: white;
+  }
+  nav {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+  }
+  h1 {
+    background-color: purple;
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+  }
+  div {
+    display: flex;
+    align-items: center;
+  }
+  .searchbar {
+    display: flex;
+    align-items: center;
+  }
+  .ending {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    }
